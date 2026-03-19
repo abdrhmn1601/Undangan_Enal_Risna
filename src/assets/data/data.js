@@ -23,19 +23,19 @@ export const data = {
     time: {
         marriage: {
             year: '2026',
-            month: 'April',
-            date: '02',
-            day: 'Kamis',
+            month: 'maret',
+            date: '30',
+            day: 'senin',
             hours: {
-                start: '09.00',
+                start: '08.00',
                 finish: 'Selesai'
             }
         },
         reception: {
             year: '2026',
             month: 'April',
-            date: '02',
-            day: 'Kamis',
+            date: '01',
+            day: 'Rabu',
             hours: {
                 start: '09.00',
                 finish: 'Selesai'
