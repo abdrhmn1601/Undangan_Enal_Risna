@@ -6,8 +6,7 @@
     justify-content: center;
     flex-direction: column;
     text-align: center;
-    background-image: url("./src/assets/images/cover1.jpeg");
-    background-color: #212529;
+    background-image: url(./src/assets/images/cover1.jpeg);
     position: fixed;
     top: 0;
     left: 0;
